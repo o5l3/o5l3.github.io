@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 오렌지랩스 기술 블로그
-description: >- # this means to ignore newlines until "baseurl:"
-오렌지랩스 기술 블로그입니다. 
+description: >-  
+  오렌지랩스 기술 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://o5l3.github.io" 
 
